@@ -1,0 +1,27 @@
+h1 {
+	color: teal;
+	font-size: 3em;
+}
+
+.box {
+	background-color: black;
+	color: chartreuse;
+}
+
+#dog {
+	border-radius: 50%;
+}
+
+a {
+	text-decoration: none;
+}
+
+strong,
+em {
+	color: red;
+}
+
+span {
+	color: blue;
+	font-size: 2em;
+}
